@@ -1,4 +1,4 @@
 # Proyecto-Calentamiento-Global
 Trabajando actualmente en este proyecto
 
-Analisis de calentamientos global con diferentes indices provenientes de La NASA, Agencia Internacional de Energía, Organización de las Naciones Unidas &amp; EM-DAT
+Análisis de datos del calentamiento global utilizando índices de NASA, IEA, ONU y EM-DAT. Proyecto que integra y visualiza datos de contaminación y clima, desarrollado con SQL Server para la gestión de datos y Power BI para dashboards interactivos
